@@ -3,7 +3,8 @@ import java.util.*;
 public class Exprbm {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// This is the problem in infosys associate it exam
+		//Input is string with numbers seperated by commas printing the no. of pairs having their digit sum is same.
 		Scanner sc=new Scanner(System.in);
 		//System.out.println("Enter the string:");
 		String str=sc.next();
